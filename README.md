@@ -6,7 +6,7 @@
 ![Dataset Size](https://img.shields.io/badge/Data-Word%2C%20Phrase%2C%20Sentence-lightgrey)  
 
 <p align="center">
-  <img src="logo.png" alt="AapuBhasa AI Logo" width="200"/>
+  <img src="https://drive.google.com/file/d/1OMotUivS98tbble4KuXnp5SoipT13uin/view?usp=drivesdk" alt="AapuBhasa AI Logo" width="200"/>
 </p>
 
 > **A structured dataset to preserve and promote the Dehvali Aadiwasi (AapuBhasa) language using AI.**
