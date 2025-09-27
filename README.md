@@ -6,7 +6,7 @@
 ![Dataset Size](https://img.shields.io/badge/Data-Word%2C%20Phrase%2C%20Sentence-lightgrey)  
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1OMotUivS98tbble4KuXnp5SoipT13uin/view?usp=drivesdk" alt="AapuBhasa AI Logo" width="200"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRxczkePiHd3-5EWil2Q_bTsnxAlcaE05g7uQYfKsHk4gKr6h0iKmQy4s3iHp3a_EH3l8Xsn6uysbd2tFTJJJMsAw6KXCQUr0qcPU6kaQ5NLXDgTx0vsZMSJfoWHrZCAVFqraer8bk7d29bKpuCw25ADkni3l_vs8DisluVFfqGSfD4ZmbL962gRZvXxYL/s320/Picsart_25-09-18_10-22-29-718.png" alt="AapuBhasa AI Logo" width="200"/>
 </p>
 
 > **A structured dataset to preserve and promote the Dehvali Aadiwasi (AapuBhasa) language using AI.**
@@ -39,9 +39,9 @@ Each CSV entry contains:
 
 | id  | aapubhasa | english   | hindi   | marathi  | category  |
 |-----|-----------|-----------|---------|----------|-----------|
-| 1   | Nawa      | New       | नया     | नवीन     | daily-use |
-| 2   | Pani      | Water     | पानी    | पाणी     | nature    |
-| 3   | Ghar      | Home      | घर      | घर       | daily-use |
+| 1   | Nowo      | New       | नया     | नवीन     | daily-use |
+| 2   | Pawy      | Water     | पानी    | पाणी     | nature    |
+| 3   | Ko        | Home      | घर      | घर       | daily-use |
 
 ---
 
