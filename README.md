@@ -49,7 +49,7 @@ Each CSV entry contains:
 
 Clone the repository:
 '''bash
-git clone https://github.com/your-username/AapuBhasa-AI-Dataset.git
+git clone https://github.com/bhavu46x/AapuBhasa-AI-Dataset-
 
 ---
 
